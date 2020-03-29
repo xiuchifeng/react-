@@ -1,0 +1,22 @@
+body{
+    background-image: url('../images/bg.jpg');
+}
+#box{
+    height:100%;
+}
+table{
+    border: none;
+}
+card{
+    border: none;
+}
+.ant-card-body{
+    background:url("../images/3.jpg");
+    background-size: cover;
+    
+}
+
+
+tr{
+    color:pink;
+}

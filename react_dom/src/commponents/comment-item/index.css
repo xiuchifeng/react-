@@ -1,0 +1,12 @@
+/* li的样式 */
+.comment-item{
+    font-size:12px;
+}
+.comment-item button{
+    float: right;
+    margin-top:-5px;
+}
+.user{
+    color:rgb(74, 192, 119);
+    font-size:15px;
+}
